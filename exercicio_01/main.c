@@ -14,7 +14,7 @@ int main()
         price = 1.20 * quant;
         printf("Preço total: %f", price);
     }else{
-        printf("Codigo invalido!")
+        printf("Codigo invalido!!!");
     }
 
     return 0;
