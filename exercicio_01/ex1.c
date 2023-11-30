@@ -7,7 +7,7 @@ int main()
     float price;
     printf("Digite o codigo do produto desejado e sua quantiade!: ");
     scanf("%d", &cod);
-    
+     
     if(cod == 100) {
         printf("Cachorro quente selecionado! Digite a quantidade de cachorro quente: ");
         scanf("%d", &quant);
